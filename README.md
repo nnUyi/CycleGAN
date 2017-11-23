@@ -29,8 +29,9 @@
   (1)download this repo to your own directory
   
     $ git clone https://github.com/nnUyi/CycleGAN.git
+    $ cd CycleGAN
     
-  (2)download celebA dataset and store it in the datasets directory(directory named datasets, sub-directory name celebA), in this repo, I just use the face images with no attributes. Input is the original images without any cropping operation, then it will be cropped into given resolution in this repo.
+  (2)download [dataset](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/) and store it in the datasets directory(directory named datasets) and then unzip it. You can use any datasets downloaded from the [website](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/).
   
   (3)training
   
@@ -47,7 +48,8 @@
 
 # Reference
 
-  This repo is finished by referring to [naturomics-CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow/issues)
+  This repo is finished by referring to [xhujoy/CycleGAN-tensorflow](https://github.com/xhujoy/CycleGAN-tensorflow)
+  
 # Contacts
   
   Email:computerscienceyyz@163.com, Thank you for contacting if you find something wrong or if you have some problems!!!
