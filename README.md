@@ -38,7 +38,6 @@
     $ python main.py --is_training=True
     
   (4)sampling
-    
     Sampling process is executed in training time. You can see the sampling results in the directory named sample
 
 # Experiments
