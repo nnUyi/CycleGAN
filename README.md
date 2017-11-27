@@ -42,7 +42,7 @@
   Sampling process is executed in training time. You can see the sampling results in the directory named sample
 
 # Experiments
-  The result shows below, after 15 epoches, we can clearly obtain such a good experimental result.
+  The result shows below, we can clearly obtain such a good experimental result.
   
   <p align='center'><img src='a_result.png' /></p>
 
