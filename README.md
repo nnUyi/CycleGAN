@@ -34,8 +34,8 @@
   (2)download [dataset](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/) and store it in the datasets directory(directory named datasets) and then unzip it. You can use any datasets downloaded from the [website](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/).
   
   (3)training
-  
-    $ python main.py --is_training=True
+    # dataset_name and dataset_dir have the same name, like: horse2zebra
+    $ python main.py --is_training=True --dataset_name='*' --dataset_dir='*'
     
   (4)sampling
   
@@ -43,6 +43,11 @@
 
 # Experiments
   The result shows below, we can clearly obtain such a good experimental result.
+  |Input image|Output image|
+  |:-----------------:|:----------------:|
+  |![Alt test](/data/A_input_1.png)|![Alt test](/data/A_output_1.png)|
+  |![Alt test](/data/A_input_2.png)|![Alt test](/data/A_output_2.png)|
+  |![Alt test](/data/A_input_3.png)|![Alt test](/data/A_output_3.png)|
   
   <p align='center'><img src='./data/a_result.png' /></p>
 
