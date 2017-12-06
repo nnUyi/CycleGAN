@@ -44,10 +44,10 @@
 # Experiments
   The result shows below, we can clearly obtain such a good experimental result.
   
-  |Input image|Output image|
-  |![Alt test](/data/A_input_1.png)|![Alt test](/data/A_output_1.png)|
-  |![Alt test](/data/A_input_2.png)|![Alt test](/data/A_output_2.png)|
-  |![Alt test](/data/A_input_3.png)|![Alt test](/data/A_output_3.png)|
+  |Input image|Output image||
+  |![Alt test](/data/A_input_1.png)|![Alt test](/data/A_output_1.png)||
+  |![Alt test](/data/A_input_2.png)|![Alt test](/data/A_output_2.png)||
+  |![Alt test](/data/A_input_3.png)|![Alt test](/data/A_output_3.png)||
   
   <p align='center'><img src='./data/a_result.png' /></p>
 
