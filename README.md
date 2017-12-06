@@ -34,6 +34,7 @@
   (2)download [dataset](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/) and store it in the datasets directory(directory named datasets) and then unzip it. You can use any datasets downloaded from the [website](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/).
   
   (3)training
+  
     # dataset_name and dataset_dir have the same name, like: horse2zebra
     $ python main.py --is_training=True --dataset_name='*' --dataset_dir='*'
     
