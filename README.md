@@ -4,15 +4,15 @@
 ## Framework
   - Picture below shows the framework of CycleGAN, more details can be seen in this repo.
   
-  <p align='center'><img src='a_framework.png'/></p>
-  <p align='center'><img src='b_framework.png'/></p>
+  <p align='center'><img src='./data/a_framework.png'/></p>
+  <p align='center'><img src='./data/b_framework.png'/></p>
   
   - Picture below shows the generator, more details can be seen in this repo. 
   
-  <p align='center'><img src='a_generator.png'/></p>
+  <p align='center'><img src='./data/a_generator.png'/></p>
   
   - Picture below shows the discriminator, more details can be seen in this repo
-  <p align='center'><img src='a_discriminator.png'/></p>
+  <p align='center'><img src='./data/a_discriminator.png'/></p>
   
   
 # Requirement
@@ -44,7 +44,7 @@
 # Experiments
   The result shows below, we can clearly obtain such a good experimental result.
   
-  <p align='center'><img src='a_result.png' /></p>
+  <p align='center'><img src='./data/a_result.png' /></p>
 
 # Reference
 
@@ -53,4 +53,3 @@
 # Contacts
   
   Email:computerscienceyyz@163.com, Thank you for contacting if you find something wrong or if you have some problems!!!
-
