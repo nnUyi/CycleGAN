@@ -1,5 +1,5 @@
 # CycleGAN
-  An tensorflow Implement of CycleGAN
+  A tensorflow Implement of CycleGAN
 
 ## Framework
   - Picture below shows the framework of CycleGAN, more details can be seen in this repo.
